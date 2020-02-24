@@ -11,5 +11,5 @@ app.get('/', (req, res) => {
 });
 // adding an event listener to the app
 app.listen(PORT, () => {
-    console.log(`server is running at port: ${PORT}`)
+    console.log(`server is  at port: ${PORT}`)
 });
