@@ -1,0 +1,30 @@
+{
+    "name": "first-nde",
+    "version": "1.0.0",
+    "description": "lesson for node",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/talk2shittuyasir/first-nde.git"
+    },
+    "keywords": [
+        "Nodejs",
+        "Mysql"
+    ],
+    "author": "Shittu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/talk2shittuyasir/first-nde/issues"
+    },
+    "homepage": "https://github.com/talk2shittuyasir/first-nde#readme",
+    "dependencies": {
+        "express": "^4.17.1"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.2"
+    }
+}
